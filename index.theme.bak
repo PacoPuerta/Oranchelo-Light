@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=Oranchelo
-Comment=An icon theme for xfce4, the set is inspired by "super flat remix" and the latest flat design trend.
+Name=Oranchelo Light
+Comment=An icon theme for xfce4, inherits from Numix.
 Directories=panel/22,actions/scalable,actions/16,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/small,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status
-Inherits=gnome
+Inherits=Numix-Light
 
 [actions/scalable]
 Context=Actions
@@ -25,7 +25,7 @@ Type=Scalable
 Size=512
 Context=Applications
 Type=Scalable
-MinSize=16
+MinSize=22
 MaxSize=512
 
 [apps/symbolic]
